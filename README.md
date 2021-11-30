@@ -1,5 +1,5 @@
 # snake
-Snake game in DoxBox.
+Snake game in DosBox.
 
 You have to install dosbox: https://www.dosbox.com/download.php?main=1
 
